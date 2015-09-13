@@ -20,5 +20,13 @@ Sigue las instrucciones.
 
 Este es un proyecto que lleva mucho tiempo parado y no esta completamente depurado. Esta probado sobre ubuntu y Kali1
 
+# Capturas de pantalla
+
+http://www.subirimagenes.com/imagen-atrapa-9466143.html                     Menu principal
+
+http://www.subirimagenes.com/imagen-seleccionarip-9466145.html              Seleccion de IP
+
+http://www.subirimagenes.com/imagen-investigarip-9466148.html               Investigar IP
+
 
 
